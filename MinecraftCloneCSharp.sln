@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinecraftCloneCSharp", "MinecraftCloneCSharp.csproj", "{3FFF130A-6AF6-4B23-A180-9E0824EE4A35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ExportDebug|Any CPU = ExportDebug|Any CPU
+		ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FFF130A-6AF6-4B23-A180-9E0824EE4A35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFF130A-6AF6-4B23-A180-9E0824EE4A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFF130A-6AF6-4B23-A180-9E0824EE4A35}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{3FFF130A-6AF6-4B23-A180-9E0824EE4A35}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{3FFF130A-6AF6-4B23-A180-9E0824EE4A35}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{3FFF130A-6AF6-4B23-A180-9E0824EE4A35}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5A40AE3-8438-440A-ACB8-F1450A5C7619}
+	EndGlobalSection
+EndGlobal
